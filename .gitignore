@@ -1,0 +1,5 @@
+.env
+.log
+b_env/
+.gz
+__pycache__/

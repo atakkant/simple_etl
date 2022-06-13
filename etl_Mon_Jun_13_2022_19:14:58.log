@@ -1,0 +1,3 @@
+[INFO]: timer started
+[INFO]: >>> Running 'transform' function. Logged at 2022-06-13 16:14:58.075367+00:00
+[INFO]: >>> Running 'connect_db' function. Logged at 2022-06-13 16:14:58.076279+00:00
