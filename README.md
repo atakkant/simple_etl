@@ -47,7 +47,11 @@ docker-compose -f airflow-docker-compose.yaml up airflow-init
 Finally we will re-run the containers for running in background.
 docker-compose -f airflow-docker-compose.yaml up -d
 
-Go to http://localhost:8080 from web browser. Click on DAGs. You will see three predefined DAGs.
+
+Go to http://localhost:8080 from web browser. Login with credentials below:
+username: airflow
+password: airflow
+Click on DAGs. You will see three predefined DAGs.
 You can activate the DAGs to perfom their schedules.
 
 Feel free to ask me any questions regarding the repo!
